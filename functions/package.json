@@ -4,6 +4,10 @@
     "makeCache": "cd graphql && node makeCache"
   },
   "dependencies": {
+    "cors": "^2.8.5",
+    "express": "4.16.2",
+    "pg": "7.4.1",
+    "postgraphile": "^4.3.3",
     "serverless-http": "^2.3.0"
   }
 }
