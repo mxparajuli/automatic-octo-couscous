@@ -1,5 +1,5 @@
 [build]
   publish = "build/"
-  command = "cd functions && npm build"
+  command = "cd functions && npm run build"
   functions = "functions/"
 
